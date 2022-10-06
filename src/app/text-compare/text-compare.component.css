@@ -1,0 +1,9 @@
+.container-diff {
+  width: 90%;
+}
+.editor {
+  border: 1px solid #ddd;
+}
+ngx-monaco-editor, ngx-monaco-diff-editor {
+  height: 500px;
+}
